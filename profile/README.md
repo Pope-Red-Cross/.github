@@ -1,4 +1,4 @@
-## Welcome to Pope Red Cross! 👋
+# Welcome to Pope Red Cross! 👋
 
 <!--
 
